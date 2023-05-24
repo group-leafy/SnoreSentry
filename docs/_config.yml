@@ -2,10 +2,10 @@
 theme: jekyll-theme-cayman
 
 # app name
-title: 'app-page-tempalte'
+title: 'Snore Sentry'
 
 # app short dsecription
-description: 'A github page template for app'
+description: 'Monitor your sleep, record snoring sounds'
 
 # umcomment if you need google analytics
 # google_analytics: G-NWQY9CVPF7
@@ -14,16 +14,16 @@ show_ios_download_btn: true
 ios_download_url: 'https://www.apple.com/'
 ios_download_btn_title: 'Download from App Store'
 
-show_android_download_btn: true
+show_android_download_btn: false
 android_download_url: 'https://www.google.com'
 android_download_btn_title: 'Download from Google Play'
 
-show_web_download_btn: true
+show_web_download_btn: false
 web_download_url: 'https://www.google.com'
 web_download_btn_title: 'Download .dmg'
 
 show_email_link: true
-email: 'example@example.com'
+email: 'group.leafy@gmail.com'
 
 show_terms_link: true
 terms_link: 'terms'
@@ -37,4 +37,4 @@ show_app_icon: true
 app_icon: 'assets/image/icon.png'
 
 show_screenshot: true
-screenshots: ['assets/image/screenshot.png', 'assets/image/screenshot.png', 'assets/image/screenshot.png', 'assets/image/screenshot.png', 'assets/image/screenshot.png']
+screenshots: ['assets/image/screenshot1.png', 'assets/image/screenshot2.png', 'assets/image/screenshot3.png', 'assets/image/screenshot4.png', 'assets/image/screenshot5.png']

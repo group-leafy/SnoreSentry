@@ -2,14 +2,12 @@
 layout: main
 ---
 
-## Welcome to app-page-tempalte
+## Welcome to Snore Sentry
 
-app-page-tempalte is a github page template for app.
+Snore Sentry is a sleep monitoring application. 
 
-You can quickly create an app github page through it.
+Our app uses local machine learning models to analyze your snoring patterns during sleep, with all sound data processed locally to ensure user privacy. 
 
-Whenever you commit to your repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+By using our app, you can easily track your sleep, understand your sleep quality, and take timely action to improve your sleep.
 
-## Page
-
-You can click here to preview [page example](page);
+Additionally, our app offers a hardcore mode that can wake you up when you snore, helping you better control your sleep. 

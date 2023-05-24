@@ -44,4 +44,4 @@ These terms control the relationship between Group-Leafy and you. They do not cr
 
 For more information, please [contact us](mailto:{{ site.email }}).
 
-Date of Last Revision: January 8, 2021
+Date of Last Revision: May 24, 2023
