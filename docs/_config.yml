@@ -11,7 +11,7 @@ description: 'Monitor your sleep, record snoring sounds'
 # google_analytics: G-NWQY9CVPF7
 
 show_ios_download_btn: true
-ios_download_url: 'https://www.apple.com/'
+ios_download_url: 'https://apps.apple.com/us/app/id6449089816'
 ios_download_btn_title: 'Download from App Store'
 
 show_android_download_btn: false
