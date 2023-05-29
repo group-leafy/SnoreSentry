@@ -8,7 +8,7 @@ title: 'Snore Sentry'
 description: 'Monitor your sleep, record snoring sounds'
 
 # umcomment if you need google analytics
-# google_analytics: G-NWQY9CVPF7
+google_analytics: G-BCKKHPW3Z8
 
 show_ios_download_btn: true
 ios_download_url: 'https://apps.apple.com/us/app/id6449089816'
